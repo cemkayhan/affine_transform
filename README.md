@@ -2,5 +2,4 @@
 
 https://en.wikipedia.org/wiki/Affine_transformation
 
-Check the demo
-[![Watch the video](https://img.youtube.com/vi/QAgyERDVET0/maxresdefault.jpg)](https://youtu.be/QAgyERDVET0)
+[![Checkout the demo](https://img.youtube.com/vi/QAgyERDVET0/maxresdefault.jpg)](https://youtu.be/QAgyERDVET0)
