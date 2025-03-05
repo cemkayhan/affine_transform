@@ -1,6 +1,6 @@
-4K 30fps capable Affine Transform IP core implementation
+4K 30fps capable [Affine Transform]https://en.wikipedia.org/wiki/Affine_transformation IP core implementation
 
-https://en.wikipedia.org/wiki/Affine_transformation
+
 
 Check out the demo project
 
